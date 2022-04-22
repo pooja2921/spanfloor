@@ -1,0 +1,1413 @@
+.wastemoney-header-sociallist li a img {
+    height: 35px;
+    width: auto;
+}
+
+.wastemoney-header-contactwrap {
+    padding: 28px 0px;
+    background-image: linear-gradient(to right top, #009400, #008200, #006f00, #005e00, #004d00);
+}
+
+.wastemoney-header-sociallist li a {
+    margin-left: 15px;
+    display: block;
+}
+
+.wastemoney-contact-details {
+    color: #ffffff;
+    font-weight: 500;
+    font-size: 14px;
+    padding: 6px 20px;
+    vertical-align: middle;
+}
+
+.wastemoney-contact-details i {
+    margin-right: 8px;
+    font-size: 20px;
+    position: relative;
+    top: 2px;
+}
+
+.wastemoney-header-menus li a {
+    font-size: 14px;
+    text-decoration: none;
+    font-weight: 600;
+    padding: 18px 20px;
+    display: block;
+}
+.wastemoney-header-wrapper {
+    position: relative;
+}
+
+.wastemoney-header-brand {
+    position: absolute;
+    width: 200px;
+    background-color: #fff;
+    padding: 44px 26px;
+}
+
+.wastemoney-main-heading h2 {
+    font-size: 28px;
+    text-transform: uppercase;
+    font-weight: 600;
+    margin-bottom: 0px;
+}
+
+.wastemoney-main-heading p {
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.wastemoney-ticker-wrapper {
+    background-color: #e9e9e9;
+    padding: 30px 0px;
+}
+
+.wastemoney-ticker-inner p {
+    margin-bottom: 0px;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.wastemoney-ticker-inner h3 {
+    font-size: 26px;
+    font-weight: 600;
+}
+
+.wastemoney-scrap-inner  img {
+    height: 100px;
+    width: auto;
+}
+
+.wastemoney-scrap-inner h6 {
+    font-size: 14px;
+    margin-bottom: 0px;
+    font-weight: 600;
+}
+
+.wastemoney-customerlove-logo img {
+    height: 30px;
+    width: auto!important;
+    display: inline-block!important;
+    vertical-align: middle;
+    padding-top: 5px;
+}
+
+.wastemoney-customerlove-content {
+    display: inline-block;
+    width: calc(100% - 80px);
+    vertical-align: top;
+    margin-left: 20px;
+}
+
+.wastemoney-customerlove-content h5 {
+    font-size: 20px;
+    margin-bottom: 0px;
+    font-weight: 600;
+}
+
+.wastemoney-customerlove-content p {
+    font-size: 14px;
+    margin-bottom: 0px;
+}
+
+.wastemoney-customerlove-logo {
+    display: block;
+    padding: 14px;
+    width: 70%;
+    position: absolute;
+    bottom: 20px;
+    background-color: rgba(225,225,225,0.90);
+}
+
+.wastemoney-customerlove-innerwrap {
+    position: relative;
+}
+
+.wastemoney-customerlove-wrapper .owl-nav button {
+    background-color: #004600!important;
+    color: #ffffff!important;
+    font-size: 22px!important;
+    width: 44px;
+    height: 44px;
+    border-radius: 50%;
+    text-align: center;
+}
+
+.wastemoney-customerlove-wrapper .owl-nav button i {
+    line-height: 2;
+}
+
+.wastemoney-customerlove-wrapper .owl-nav {
+    left: 0px;
+    right: 0px;
+    top: 50%;
+    position: absolute;
+    transform: translateY(-50%);
+}
+
+.wastemoney-customerlove-wrapper .owl-nav button.owl-next {
+    right: 0px;
+    position: absolute;
+}
+
+.wastemoney-customerlove-inner {
+    padding: 0px 70px;
+}
+
+.wastemoney-customerlove-innerwrap>img {
+    height: 250px;
+    width: 100%;
+    object-fit: cover;
+}
+
+.wastemoney-circulareconomy-content p {
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.wastemoney-circulareconomy-content {
+    padding-left: 60px;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.wastemoney-scrap-content li img {
+    height: 70px;
+    width: auto;
+}
+
+.wastemoney-scrap-content li h6 {
+    font-size: 15px;
+    font-weight: 600;
+    text-transform: uppercase;
+    margin-top: 10px;
+}
+
+.wastemoney-scrap-content li {
+    width: 25%;
+    margin-bottom: 15px;
+}
+
+.wastemoney-scrap-wrapper .wastemoney-main-heading {
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.wastemoney-scrap-wrapper .wastemoney-main-heading h2 {
+    line-height: 1.4;
+}
+
+.wastemoney-earnmoney-content li {
+    border: 1px solid #009500;
+    border-radius: 20px;
+    padding: 20px;
+    max-width: 280px;
+}
+
+.wastemoney-earnmoney-content li i {
+    font-size: 50px;
+    color: #009500;
+}
+
+.wastemoney-earnmoney-content li h6 {
+    font-size: 18px;
+    font-weight: 500;
+    text-transform: capitalize;
+    margin-top: 20px;
+}
+
+.wastemoney-earnmoney-content li p {
+    font-size: 14px;
+    font-weight: 400;
+}
+.wastemoney-earnmoney-content li:nth-child(2) {
+    position: absolute;
+    right: 30px;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.wastemoney-earnmoney-content {
+    position: relative;
+}
+
+.wastemoney-earnmoney-content li:first-child {
+    margin-bottom: 100px;
+}
+
+.wastemoney-earnmoney-wrapper .wastemoney-main-heading {
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.wastemoney-wastage-wrapper .wastemoney-ticker-inner img {
+    width: auto;
+    height: 70px;
+    margin-bottom: 20px;
+}
+
+/* ================== END home page css end ====================== */
+
+/* ================ START product-categories css ===================== */
+.product-img img {
+    width: 80px;
+    padding: 16px 0 0 16px;
+    margin: 0px 15px 0px;
+}
+
+.prodct-catg-list img {
+    height: 50px;
+    width: auto;
+    margin-right: 26px;
+}
+.prodct-catg-list {
+    font-size: 24px;
+    text-transform: uppercase;
+}
+.nav-pills .nav-link{
+    padding: 18px 30px;
+    background-color: #eee;
+    border: 1px solid #e6e6e6;
+    border-radius: 0px;
+}
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    background-color: #fff;
+    color: #000;
+    font-weight: 500;
+}
+.catg-headline {
+    text-align: left;
+    font-size: 20px;
+    font-weight: bold;
+    color: #009500;
+    text-transform: uppercase;
+    padding: 1em 0;
+}
+.product-details {
+    border-top: 1px solid #eee;
+    padding-bottom: 0px;
+}
+/* ================ END product-categories css ===================== */
+/* ================ START Login/signup css ===================== */
+.wastemoney-banner-image img {
+    padding: 0em 10em 3em;
+}
+.waste-money-imgs img {
+    width: 70px;
+    margin-bottom: 10px;
+}
+.wastemoney-btns:hover {
+    background: #00a7e0;
+    transition: 0.3s;
+}
+h4 span {
+    text-transform: uppercase;
+}
+
+.wastemoney-normalbtn:hover {
+    background: #004600;
+    transition: 0.3s;
+}
+
+.wastemoney-header-menulist li a {
+    display: block;
+    color: #14467b;
+    text-decoration: none;
+    font-weight: 700;
+    text-transform: capitalize;
+    font-size: 14px;
+    padding: 17px 15px;
+    position: relative;
+    display: block;
+}
+
+.wastemoney-header-menulist li {
+    display: inline-block;
+}
+
+.wastemoney-brand img {
+    width: auto;
+    height: 60px;
+}
+
+.wastemoney-header-wrapper {
+    padding: 0px 0px;
+}
+
+/* .wastemoney-banner-section {
+    background-color: #011c35;
+    padding: 100px 30px;
+    position: relative;
+    overflow: hidden;
+    background-image: linear-gradient(to bottom, #151c22, #151c22, #141c23, #141c23, #131c24, #111c26, #101c27, #0e1c29, #0b1c2c, #071c2f, #041c32, #011c35);
+} */
+
+.wastemoney-form-inner h4 {
+    color: #14467b;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 29px;
+    text-align: center;
+    letter-spacing: 3px;
+}
+
+.wastemoney-form-inner {
+    display: inline-block;
+    max-width: 330px;
+    position: relative;
+    z-index: 99;
+}
+
+.wastemoney-formup-form {
+    background-color: #ffffff;
+    border-radius: 30px;
+    padding: 30px;
+}
+
+.wastemoney-formup-list label {
+    flex: 1;
+    vertical-align: middle;
+    color: #14467b;
+    font-weight: 700;
+    text-align: left;
+    font-size: 15px;
+}
+
+.wastemoney-formup-list label input[type="radio"] {
+    width: auto;
+    height: auto;
+    margin-right: 6px;
+    position: relative;
+}
+
+.wastemoney-formup-list .nice-select.selectpicker {
+    border: 2px solid #10a8db;
+    height: 35px;
+    line-height: 2.3;
+    color: #14467b;
+    border-radius: 50px;
+    font-weight: 700;
+    margin-left: 15px;
+}
+
+.wastemoney-formup-list .nice-select.selectpicker::after {
+    border-color: #14467b;
+    width: 8px;
+    height: 8px;
+    top: 15px;
+    right: 14px;
+}
+
+.wastemoney-btns {
+    border: 0px;
+    text-transform: capitalize;
+    font-weight: 700;
+    padding: 10px 40px;
+    border-radius: 50px;
+    background: rgb(22,81,133);
+    background: linear-gradient(180deg, rgba(22,81,133,1) 20%, rgba(40,150,191,1) 85%);
+    transition: 0.3s;
+    outline: none;
+}
+
+/* .wastemoney-banner-section:before {content: "";width: 400px;height: 400px;background-color: #033755;bottom: -200px;position: absolute;border-radius: 50%;z-index: 0;left: -120px;} */
+
+.wastemoney-formup-list {
+    margin-bottom: 28px;
+}
+
+.wastemoney-signinup-form {background-color: #ffffff;border-radius: 30px;padding: 30px 30px;width: 420px;display: inline-block;margin: 0px auto;float: right;box-shadow: 1px 4px 20px -2px rgb(0 0 0 / 22%);}
+
+.wastemoney-signinup-form h4 {
+    color: #004600;
+    font-weight: 700;
+    font-size: 26px;
+}
+
+.wastemoney-signinup-form ul#pills-tab {
+    display: block;
+    background-color: #ffffff;
+    border-radius: 50px;
+    width: 100%;
+}
+
+.wastemoney-signinup-form ul#pills-tab li{
+    flex: 1;
+    width: 178px;
+}
+
+.wastemoney-signinup-form ul#pills-tab {
+    display: flex;
+    border: 1px solid #009200;
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
+}
+
+
+.wastemoney-signinup-form ul#pills-tab li.nav-item button.active {
+    background-color: #009200;
+    border: 1px solid #009200;
+    border-radius: 50px;
+    color: #fff;
+    padding: 8px 20px;
+}
+
+
+.wastemoney-signinup-form ul#pills-tab li.nav-item button {
+    background-color: transparent;
+    border: 0px;
+    width: 100%;
+    outline: none;
+    font-size: 16px;
+    font-weight: 600;
+    padding: 8px 20px;
+    color: #004600;
+}
+
+.wastemoney-signinup-forminner label {
+    color: #004600;
+    font-weight: 600;
+    display: block;
+    text-align: left;
+}
+
+.wastemoney-normalbtn.btn-primary {
+    background-color: #009200;
+    border: 1px solid #009200!important;
+    padding: 10px 50px;
+    font-size: 18px;
+    font-weight: 600;
+    box-shadow: none;
+    border-radius: 50px;
+    text-decoration: none;
+    display: inline-block;
+    transition: 0.3s;
+    cursor: pointer;
+    text-transform: capitalize;
+}
+
+.wastemoney-formforgot-text {
+    color: #004600;
+    font-weight: 600;
+}
+
+.wastemoney-formforgot-text a {
+    color: #009200;
+    text-decoration: none;
+}
+
+.wastemoney-header-menulist li a.active {
+    color: #009200;
+}
+
+.wastemoney-header-menulist li a:hover {
+    color: #009200;
+}
+
+.wastemoney-header-wrapper.sticky {
+    position: fixed;
+    z-index: 9999;
+    left: 0px;
+    right: 0px;
+    background-color: #ffffff;
+    top: 0px;
+    box-shadow: 0 0 15px rgb(0 0 0 / 20%);
+}
+
+.wastemoney-newpopele-heading {
+    color: #009200;
+    font-size: 25px;
+    font-weight: 670;
+    text-transform: capitalize;
+}
+
+.wastemoney-newpopele p {
+    font-size: 14px;
+    font-weight: 600;
+    color: #009200;
+}
+
+.wastemoney-newpopele img {
+    height: 500px;
+    border-radius: 25px;
+    object-fit: cover;
+    margin-bottom: 20px;
+}
+
+.wastemoney-whywastemoney-inner {
+    border-top-right-radius: 70px;
+    border-bottom-right-radius: 70px;
+    -webkit-box-shadow: 10px 10px 8px -13px rgba(0,0,0,1);
+    padding: 20px 20px 20px 0px;
+    width: 600px;
+    position: absolute;
+    background-color: #ffffff;
+    top: 50%;
+    box-shadow: 9px 3px 13px -5px rgba(0,0,0,0.42);
+    -webkit-box-shadow: 9px 3px 13px -5px rgba(0,0,0,0.42);
+    -moz-box-shadow: 9px 3px 13px -5px rgba(0,0,0,0.42);
+    transform: translateY(-50%);
+    z-index: 99;
+}
+
+.wastemoney-whywastemoney-img img {
+    border-radius: 20px;
+}
+
+.wastemoney-aboutus-content {
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+    padding-right: 30px;
+}
+
+.wastemoney-aboutus-img img {
+    border-radius: 20px;
+}
+
+.wastemoney-contact-menulist h5 {
+    font-family: 'Segoe UI Regular';
+    color: #ffffff;
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+.wastemoney-contact-list li a {
+    color: #ffffff;
+    font-size: 16px;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.wastemoney-contact-menulist {
+    margin-top: 10px;
+    padding: 0px;
+    position: relative;
+}
+
+.wastemoney-download h4 {
+    display: inline-block;
+    font-size: 16px;
+    color: #ffffff;
+    width: 190px;
+    font-weight: 500;
+}
+
+.wastemoney-download ul {
+    width: calc(100% - 220px);
+    display: inline-block;
+    position: relative;
+}
+
+.wastemoney-download ul li {
+    width: 49%;
+    display: inline-block;
+    padding: 0px 10px;
+}
+
+.wastemoney-contact-inner li {
+    display: inline-block;
+}
+
+.wastemoney-contact-inner li a {
+    display: block;
+    font-size: 16px;
+    color: #ffffff;
+    text-decoration: none;
+    padding: 10px 20px 10px 0px;
+    font-weight: 500;
+}
+
+.wastemoney-footer-wrapper {
+    background-color: #0c633a;
+    padding: 30px 0px;
+}
+
+ul.wastemoney-footer-list li a {
+    color: #ffffff;
+    text-decoration: none;
+    display: block;
+    font-weight: 600;
+    padding-right: 25px;
+}
+
+ul.wastemoney-footer-list li {
+    display: inline-block;
+    position: relative;
+}
+
+ul.wastemoney-footer-list {
+    width: 90%;
+    margin: 30px auto 0px;
+    text-align: center;
+}
+
+ul.wastemoney-footer-list li:after {content: "";width: 2px;height: 20px;right: 10px;background-color: #ffffff;position: absolute;top: 4px;}
+
+ul.wastemoney-footer-list li:last-child:after {
+    content: none;
+}
+
+.wastemoneybyte-copywrite p {
+    margin-bottom: 0px;
+    color: #009200;
+    font-size: 14px;
+}
+
+.wastemoney-download-inner li:last-child:after {
+    content: "";
+    width: 1px;
+    height: 42px;
+    background-color: #ced6e0;
+    position: absolute;
+    right: -20px;
+    top: 4px;
+}
+
+ul.wastemoney-submenus-profile {
+    position: absolute;
+    background-color: #ffffff;
+    right: -20px;
+    width: 200px;
+    text-align: left;
+    padding: 20px 20px 30px;
+    border-radius: 10px;
+    top: 50px;
+    box-shadow: 2px 2px 5px 0px rgb(0 0 0 / 35%);
+    z-index: 9;
+    opacity: 0;
+    height: 0px;
+    transition: 0.3s;
+    overflow: hidden;
+    z-index: 9999;
+}
+
+li.wastemoney-havesubmenu {
+    position: relative;
+}
+
+ul.wastemoney-submenus-profile li a {
+    padding: 5px;
+    color: #000000!important;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+ul.wastemoney-submenus-profile li {
+    display: block;
+    padding-left: 20px;
+}
+
+ul.wastemoney-submenus-profile li:first-child {
+    padding-left: 0px;
+}
+
+ul.wastemoney-submenus-profile li:first-child a span {
+    font-size: 32px;
+    color: #009200;
+    position: relative;
+    float: right;
+    top: -6px;
+}
+
+ul.wastemoney-submenus-profile li:last-child a {
+    color: #009200;
+    font-size: 16px;
+    text-align: center;
+}
+
+li.wastemoney-havesubmenu:hover ul.wastemoney-submenus-profile {
+    opacity: 1;
+    height: 280px;
+}
+
+.wastemoney-preloader {
+    position: fixed;
+    top: 0px;
+    right: 0px;
+    left: 0px;
+    bottom: 0px;
+    z-index: 999999;
+    background-color: #dee3ea;
+    text-align: center;
+}
+
+a.wastemoney-brands img {
+    width: 150px;
+    display: block;
+    margin: 0px auto;
+}
+
+a.wastemoney-brands {
+    position: absolute;
+    top: 40%;
+    left: 0px;
+    right: 0px;
+    margin: 0px auto;
+    text-decoration: none;
+}
+
+.wastemoney-logocon h4 {
+    text-decoration: none;
+    color: #009200;
+    font-size: 24px;
+    font-weight: 600;
+    margin-bottom: 0px;
+}
+
+.wastemoney-logocon {
+    margin-top: 6px;
+}
+
+.wastemoney-logocon strong {
+    font-size: 16px;
+    display: block;
+    color: #111111;
+    font-weight: 600;
+}
+
+ul.wastemoney-footer-list li a:hover {
+    color: #009200;
+}
+
+li.wastemoney-havesubmenu  a img {
+    height: 15px;
+    width: auto;
+}
+
+.wastemoney-formup-list label input[type="radio"]:after {content: "";width: 16px;height: 16px;position: absolute;top: 0px;background-color: #ffffff;border-radius: 50%;border: 1px solid #00a7e0;left: -1px;}
+
+.wastemoney-formup-list label input[type="radio"]:checked:before {
+    content: "";
+    background-color: #009200;
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    z-index: 99;
+    border-radius: 50%;
+    top: 3px;
+    left: 2px;
+}
+
+li.wastemoney-havesubmenu .wastemoney-togglemenus span {
+    background-color: #009200;
+    height: 3px;
+    width: 28px;
+    display: block;
+    margin-bottom: 6px;
+    position: absolute;
+    right: 0px;
+    left: 0px;
+    top: 20px;
+}
+
+li.wastemoney-havesubmenu a span:nth-child(2n) {
+    width: 18px;
+    top: 27px;
+}
+
+li.wastemoney-havesubmenu a span:nth-child(3n) {
+    top: 34px;
+}
+
+.wastemoney-header-menulist li a:hover span {
+    background-color: #009200;
+}
+
+.wastemoney-header-wrapper.sticky {
+    background-color: #0009200;
+}
+
+.wastemoney-header-wrapper.sticky .wastemoney-header-menulist li a {
+    color: #ffffff;
+}
+
+.wastemoney-header-wrapper.sticky .wastemoney-header-menulist li a span {
+    background-color: #ffffff;
+}
+
+ul.wastemoney-submenus-profile li a:hover {
+    color: #00a7e0!important;
+}
+
+ul.wastemoney-submenus-profile li a:hover span {
+    background: transparent!important;
+}
+
+ul.wastemoney-header-menulist.wastemoney-mobile.active {
+    right: 0px;
+    transition: 0.3s;
+}
+
+ul.wastemoney-header-menulist.wastemoney-mobile.active li a {
+    display: block;
+    width: 100%;
+    padding: 16px 20px 16px;
+    border-bottom: 1px solid #dfdddd;
+}
+
+ul.wastemoney-header-menulist.wastemoney-mobile.active li {
+    display: block;
+}
+
+img.wastemoney-mobile-close {
+    width: 20px;
+    position: absolute;
+    right: 20px;
+    top: 20px;
+}
+
+ul.wastemoney-header-menulist.wastemoney-mobile {
+    right: -250px;
+    transition: 0.3s;
+    position: fixed;
+    right: -250px;
+    top: 0px;
+    width: 250px;
+    bottom: 0px;
+    background-color: #ffffff;
+    z-index: 9999999;
+    box-shadow: 0 0 15px rgb(0 0 0 / 20%);
+    padding-top: 30px;
+    transition: 0.3s;
+}
+
+.wastemoney-mobilemenu-user i {
+    color: #0c3663;
+    font-size: 24px;
+}
+
+.wastemoney-mobilemenu-user .fa-bars {top: -5px;margin-right: 20px;}
+
+.wastemoney-header-wrapper.sticky li i {
+    color: #ffffff;
+}
+
+.sticky .wastemoney-brightlog{
+    display: none;
+}
+
+.wastemoney-whitelogo{
+    display: none;
+}
+
+.sticky .wastemoney-whitelogo{
+    display: block;
+}
+
+.waste-money-imgs p {
+    font-size: 14px;
+    margin-bottom: 0px;
+    font-weight: 600;
+}
+
+.waste-money-imgs {
+    padding: 0px 10px;
+}
+
+.wastemoney-banner-section {
+    padding: 50px 20px;
+}
+
+.prodct-catg-list {
+    font-size: 19px;
+    font-weight: 500;
+}
+
+.wastemoney-productcat .card-footer {
+    background-color: #e6e6e6;
+    font-weight: 500;
+    font-size: 14px;
+    margin: 0px 15px 15px;
+    max-height: 80px;
+    overflow-y: auto;
+}
+
+.wastemoney-productcat h5.card-title {
+    font-size: 21px;
+    text-transform: uppercase;
+    padding-bottom: 14px;
+    margin-bottom: 0px;
+    margin: 0px 15px 0px;
+}
+
+.wastemoney-productcat .card-footer .product-details {
+    border-top: 0px;
+}
+
+.wastemoney-productcat .card-body .product-details {
+    padding-top: 10px;
+    font-weight: 500;
+    font-size: 14px;
+    margin: 0px 15px 0px;
+}
+
+.pickup-form-outer h4 {
+    color: #004600;
+    margin-bottom: 6px;
+}
+
+.pickup-form-outer p {
+    text-transform: uppercase;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.wastemoney-footer-address h4 {
+    font-size: 18px;
+    color: #ffffff;
+    font-weight: 500;
+}
+
+.wastemoney-footer-address p {
+    font-size: 16px;
+    color: #bebebe;
+}
+
+.wastemoney-footer-menus li a {
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 600;
+    color: #ffffff;
+}
+
+.wastemoney-copyright p {
+    font-size: 14px;
+    font-weight: 600;
+    margin-top: 20px;
+    color: #bebebe;
+}
+
+ul.wastemoney-footer-menus {
+    display: inline-block;
+    text-align: left;
+    position: relative;
+    padding-top: 50px;
+}
+
+footer.wastemoney-footer-wrapper {
+    background-color: #242424;
+    padding: 50px 0px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+.wastemoney-copyright .wastemoney-header-sociallist {
+    padding-top: 50px;
+}
+
+.wastemoney-header-menus {
+    box-shadow: 1px 4px 20px -2px rgb(0 0 0 / 22%);
+}
+
+.sell-step-heading {
+    font-size: 18px;
+    text-transform: uppercase;
+    font-weight: 600;
+    margin-bottom: 0px;
+}
+
+.wastemoney-normalbtn.btn-primary:hover {
+    background-color: #004600;
+}
+
+.wastemoney-preloader {
+    position: fixed;
+    background-color: #ffffff;
+    z-index: 99;
+    right: 0px;
+    left: 0px;
+    top: 0px;
+    bottom: 0px;
+    text-align: center;
+}
+
+a.wastemoney-brands  img {
+    width: 150px;
+    margin: 0px auto;
+}
+
+.wastemoney-brands {
+    position: absolute;
+    top: 50%;
+    left: 0px;
+    right: 0px;
+}
+
+.tieup-frmbtn {
+    background-color: #009200;
+    border: 1px solid #009200!important;
+    padding: 8px 50px;
+    font-size: 18px;
+    font-weight: 700;
+    box-shadow: none;
+    border-radius: 50px;
+    text-decoration: none;
+    display: inline-block;
+    transition: 0.3s;
+    cursor: pointer;
+    color: #fff;
+}
+
+.wastemoney-closemenu {
+    display: none;
+}
+
+.wastemoney-menubars {
+    display: none;
+}
+
+@media only screen and (max-width: 1100px) {
+    .wastemoney-closemenu {
+        display: block;
+    }
+    .wastemoney-menubars {
+        display: block;
+    }
+    .wastemoney-mobile-wrapper {
+        display: none!important;
+    }
+    .wastemoney-mobilemenu-user i {
+        padding: 18px 0px;
+    }
+    .wastemoney-header-menulist li {
+        display: none;
+    }
+    .wastemoney-havesubmenu {
+        display: inline-block;
+    }
+    .wastemoney-form-inner {
+        max-width: 280px;
+        position: relative;
+        z-index: 99;
+        margin: 0px auto;
+        display: block;
+    }
+    .wastemoney-newpopele {
+        margin-bottom: 30px;
+        padding: 0px 10px;
+    }
+    ul.wastemoney-footer-list {
+        width: 100%;
+        text-align: left;
+    }
+    ul.wastemoney-footer-list li {
+        display: inline-block;
+        position: relative;
+    }
+    ul.wastemoney-footer-list li a {
+        font-size: 15px;
+    }
+    .wastemoney-download ul li {
+        width: 33%;
+        padding: 0px 0px 0px 0px;
+    }
+    .wastemoney-download ul {
+        width: 100%;
+        text-align: left;
+        margin-bottom: 10px;
+    }
+    .wastemoney-download h4 {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+    .wastemoney-contact-inner li a {
+        padding: 10px 20px 0px 0px;
+    }
+    .wastemoney-signinup-form {
+        padding: 20px 20px;
+        width: 100%;
+        position: relative;
+        z-index: 99;
+    }
+    .wastemoney-signinup-form ul#pills-tab li {
+        display: inline-block;
+        width: 49.78%;
+    }
+    .wastemoney-signinup-form ul#pills-tab li.nav-item button {
+        font-size: 16px;
+        font-weight: 700;
+    }
+    .wastemoney-signinup-form h4 {
+        font-size: 19px;
+        text-align: center;
+        margin-bottom: 24px;
+    }
+    .wastemoney-signinup-form ul#pills-tab {
+        width: 100%;
+        margin-top: 10px!important;
+        margin-bottom: 6px!important;
+        display: flex;
+    }
+    input[type="text"], input[type="email"], input[type="phone"], input[type="number"] {
+        height: 40px;
+    }
+    .wastemoney-formforgot-text {
+        font-size: 15px;
+    }
+    .wastemoney-banner-section {
+        padding: 50px 10px;
+    }
+    /* .wastemoney-banner-image {
+        position: relative;
+        top: 0%;
+        transform: translateY(0%);
+        text-align: center;
+        margin-bottom: 30px;
+        display: none;
+    } */
+    /* .wastemoney-banner-image img {
+        width: 150px;
+        margin: 0px auto;
+    } */
+    .wastemoney-whywastemoney-inner {
+        border-radius: 0px;
+        padding: 20px 0px 0px 0px;
+        width: 100%;
+        position: relative;
+        top: 0%;
+        box-shadow: none;
+        transform: translateY(0%);
+    }
+    .wastemoney-whywastemoney-wrapper {
+        padding: 0px 10px;
+    }
+    .wastemoney-aboutus-start {
+        padding: 30px 10px;
+    }
+    .wastemoney-aboutus-content {
+        text-align: left!important;
+        margin-top: 10px;
+    }
+    .wastemoney-form-inner h4 {
+        font-size: 24px;
+    }
+    .wastemoney-formup-form {
+        padding: 20px 14px;
+    }
+    .wastemoney-formup-list label {
+        font-size: 12px;
+    }
+    .wastemoney-formup-list .nice-select.selectpicker {
+        font-size: 11px;
+        height: 32px;
+        padding-left: 10px;
+    }
+    .wastemoney-formup-list {
+        margin-bottom: 20px;
+    }
+    .wastemoney-formup-form .wastemoney-btns {
+        margin-top: 20px!important;
+    }
+    .wastemoney-newpopele img {
+        height: auto;
+    }
+    .wastemoney-formup-list .nice-select.selectpicker::after {
+        top: 13px;
+    }
+    div#v-pills-tab {
+        max-width: 100% !important;
+        margin: 0 !important;
+    }
+    .paroduct-cat-outer {
+        display: inline-block !important;
+    }
+    .wastemoney-main-heading h2 {
+        font-size: 20px;
+        margin-bottom: 18px;
+        text-align: center;
+    }
+    .wastemoney-productcat h5.card-title {
+        font-size: 16px;
+    }
+    .nav-pills .nav-link {
+        padding: 12px 30px;
+        font-size: 15px;
+    }
+    .wastemoney-header-menus {
+        right: -300px;
+        position: fixed;
+        transition: 0.3s;
+        top: 0px;
+        bottom: 0px;
+        width: 300px;
+        padding-top: 40px;
+    }
+    .wastemoney-header-brand {
+        position: relative;
+        width: 100%;
+        padding: 20px 26px;
+        text-align: center;
+        border-bottom: 1px solid #cccccc;
+    }
+    .wastemoney-header-brand img {
+        width: 120px;
+    }
+    .wastemoney-header-contactwrap {
+        padding: 10px 0px;
+        text-align: left!important;
+        display: none;
+    }
+    .wastemoney-contact-details {
+        padding: 4px 20px;
+    }
+    .spacer-bottom {
+        padding-bottom: 40px;
+    }
+    .spacer-top {
+        padding-top: 40px;
+    }
+    .wastemoney-ticker-inner {
+        margin-bottom: 26px;
+    }
+    .wastemoney-scrap-inner {
+        margin-bottom: 38px;
+    }
+    .wastemoney-scrap-wrapper .wastemoney-main-heading {
+        position: relative;
+        top: 0px;
+        transform: translateY(0%);
+    }
+    .wastemoney-circulareconomy-content {
+        padding-left: 20px;
+        position: relative;
+        top: 0%;
+        transform: translateY(0%);
+        margin-top: 20px;
+    }
+    .wastemoney-circulareconomy-image {
+        text-align: center;
+    }
+    .wastemoney-circulareconomy-image img {
+        width: 200px;
+    }
+    .wastemoney-earnmoney-content li:nth-child(2) {
+        position: relative;
+        right: 0px;
+        top: 0%;
+        transform: translateY(0%);
+    }
+    .wastemoney-earnmoney-content li:first-child {
+        margin-bottom: 20px;
+    }
+    .wastemoney-earnmoney-content li {
+        margin-bottom: 20px;
+    }
+    .wastemoney-customerlove-content {
+        display: inline-block;
+        width: 100%;
+        vertical-align: top;
+        margin-left: 0px;
+        margin-top: 15px;
+    }
+    .wastemoney-customerlove-logo {
+        width: 96%;
+    }
+    .wastemoney-customerlove-inner {
+        padding: 0px 30px;
+    }
+    .wastemoney-scrap-content li {
+        width: 49%;
+    }
+    ul.wastemoney-footer-menus {
+        display: block;
+        text-align: left;
+        position: relative;
+        padding-top: 20px;
+    }
+    .wastemoney-copyright p {
+        margin-bottom: 0px;
+    }
+    footer.wastemoney-footer-wrapper {
+        padding: 50px 10px;
+    }
+    .wastemoney-ticker-inner h3 {
+        font-size: 20px;
+        margin-bottom: 4px;
+    }
+    .wastemoney-ticker-inner p {
+        font-size: 14px;
+    }
+    .wastemoney-scrap-content li:last-child {
+        margin-bottom: 0px;
+    }
+    .wastemoney-earnmoney-content li {
+        max-width: 100%;
+    }
+    div#v-pills-profile {
+        margin-top: 35px;
+    }
+    .wastemoney-header-menus.active {
+        background-color: #ffffff;
+        right: 0px;
+        text-align: left!important;
+        transition: 0.3s;
+    }
+    
+    .wastemoney-header-menus ul.wastemoney-main-menus li {
+        display: block!important;
+        border-bottom: 1px dashed #cccccc;
+    }
+
+    .wastemoney-menubars {
+        font-size: 26px;
+        padding-top: 15px;
+        float: right;
+    }
+    .wastemoney-closemenu img {
+        height: 20px;
+        width: auto;
+    }
+    
+    .wastemoney-closemenu {
+        position: absolute;
+        right: 20px;
+        top: 15px;
+    }
+  }
+
+  @media only screen and (max-width: 1024px) {
+    .wastemoney-signinup-form ul#pills-tab li {
+        display: inline-block;
+        width: 49.68%;
+    }
+  }
+
+  @media only screen and (max-width: 767px) {
+    .wastemoney-signinup-form ul#pills-tab li {
+        flex: 1;
+    } 
+    .wastemoney-signinup-forminner label {
+        font-size: 14px;
+    }
+    .wastemoney-banner-image img {
+        padding: 0px 2em 2em;
+        display: none;
+    }
+    .wastemoney-banner-image {
+        position: relative;
+        top: 0px;
+        transform: translateY(0%);
+    }
+    .waste-money-imgs img {
+        width: 50px;
+    }
+    .waste-money-imgs p {
+        font-size: 10px;
+        line-height: 1.4;
+        font-weight: 500;
+        font-family: 'Poppins', sans-serif;
+        padding: 10px 0;
+    }
+  }
+
+@media only screen and (max-width: 480px) {
+    .wastemoney-signinup-form ul#pills-tab li {
+        display: inline-block;
+        width: 49.10%;
+    }
+}
