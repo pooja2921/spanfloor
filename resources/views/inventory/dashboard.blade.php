@@ -79,7 +79,7 @@
             </div>
             <!-- page statustic chart end -->
             <!-- sale 2 card start -->
-            {{--<div class="col-md-6 col-xl-4">
+            <!--<div class="col-md-6 col-xl-4">
                 <div class="card sale-card">
                     <div class="card-header">
                         <h3>{{ __('Realtime Profit')}}</h3>
@@ -121,7 +121,7 @@
                         <div id="sec-ecommerce-chart-bar" ></div>
                     </div>
                 </div>
-            </div>--}}
+            </div>-->
             <!-- sale 2 card end -->
 
             <!-- product and new customar start -->

@@ -70,8 +70,9 @@ class AttributeController extends Controller
     public function edit($id)
     {
         //return $id;
-         $attribute=$this->attributes->find($id);
-         return view('items.edit-attribute',compact('attribute'));
+         $attribute=$this->attributes->select('id','name')->find($id);
+         //return view('items.edit-attribute',compact('attribute'));
+          return \Response::json(['status'=>"success", 'message'=>'attributes edit successfully.', 'attr'=>$attribute]);
     }
 
     /**

@@ -25,3 +25,37 @@ $.ajax({
 
   console.log("It failed");
 });
+
+$(document).on('click','.editbyid',function(){
+  //alert('ghfhgfh');
+    
+  var url=$(this).data("url");
+   //console.log(url);
+  var id=$(this).data("id");
+   //console.log(id);
+$.ajax({
+    url: url,
+    type: 'GET',
+    data: {
+      "id":id
+    },
+    success: function(data) {
+      console.log(data.status);
+      if (data.status == "success") {
+          //alert(data.attr.name);
+           //$('#categoryView').css('display','block');
+          $("#categoryView").modal("show");
+          $('.attrname').val(data.attr.name);
+          $('.attrid').val(data.attr.id);
+      }
+    }
+  });
+
+  console.log("It failed");
+});
+
+$('.updateform').click(function(){
+  alert('dgdfgdgdf');
+  //var url=$(this).data("url");
+  //var id=$(this).data("id");
+});

@@ -97,7 +97,7 @@
                                             
                                             
                                             <td>
-                                             <a href="{{ route('attribute.edit', $attr['id']) }}"><i class="ik ik-edit-2 f-16 mr-15 text-green"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                             <a href="javascript:;"  class="editbyid"  data-id="{{ isset($attr->id) ? $attr->id:'' }}" data-url="{{route('attribute.edit', $attr->id) }}"><i class="ik ik-edit-2 f-16 mr-15 text-green"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                                             <a href="javascript:;" class="deletebyid" data-id="{{ isset($attr->id) ? $attr->id:'' }}"  data-url="{{route('attributedelete',$attr['id'])}}"><i class="ik ik-trash-2 f-16 text-red"></i></a></td>
                                           </tr>
                                         @endforeach
@@ -136,6 +136,35 @@
                       </div>
                   </div>
                 </form>
+            </div>
+        </div>
+    </div>
+
+    <!-- category edit modal -->
+    <div class="modal fade edit-layout-modal pr-0 " id="categoryView" tabindex="-1" role="dialog" aria-labelledby="categoryViewLabel" aria-hidden="true" style="display: none;">
+        <div class="modal-dialog w-300" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="categoryViewLabel">{{ __('Edit Attribute')}}</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                </div>
+                {{-- <form class="forms-sample" method="POST" action="{{ route('attribute.update',$attribute->id) }}" enctype= multipart/form-data >
+                @csrf
+                @method('PUT') --}}
+                    <div class="modal-body">
+                        <div class="form-group">
+                            <input  type="hidden" class="form-control attrid" name="attrid" >
+                              <label for="title">Title<span class="text-red">*</span></label>
+                                <input id="title" type="text" class="form-control attrname" name="name" placeholder="Enter title" required="">
+                                                    
+                        </div>
+                        
+                        
+                        <div class="form-group">
+                            <input class="btn btn-primary updateform" data-url="{{ route('attribute.update') }}" type="submit" name="Update" value="Update">
+                        </div>
+                    </div>
+                {{-- </form> --}}
             </div>
         </div>
     </div>
